@@ -1,2 +1,2 @@
 # Wildcards
-Wildcards for use in Easy Diffusion
+Wildcards for use in Easy Diffusion, ComfyUI etc
